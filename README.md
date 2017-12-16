@@ -8,7 +8,7 @@ Keywords:
 
 EEG; Imagined Speech; Classification; Bipolar Neural Network; Brain Computer Interface
 
-Cite this Article: 
+Cite this Article as: 
 
 Kamalakkannan Ravi, Rajkumar R., Madan Raj. M. and Shenbaga Devi. S., Imagined Speech Classification using EEG, Advances in Biomedical Science and Engineering, Volume 1, Number 2, pp.20-32, 2014.
 
