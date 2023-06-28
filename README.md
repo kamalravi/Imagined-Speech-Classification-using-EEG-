@@ -49,3 +49,5 @@ IEEE, 2001.
 
 [10] S. G. Mallat, “A theory for multiresolution signal decomposition: the wavelet representation,” Pattern
 Analysis and Machine Intelligence, IEEE Transactions on, vol. 11, no. 7, pp. 674–693, 1989.
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/imagined-speech-classification-using-eeg/electroencephalogram-eeg-on)](https://paperswithcode.com/sota/electroencephalogram-eeg-on?p=imagined-speech-classification-using-eeg)
